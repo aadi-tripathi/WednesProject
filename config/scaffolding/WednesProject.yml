@@ -1,9 +1,9 @@
+version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- gitBranch: release/1.0.0
+- name: WednesProject
   gitServerName: NewTest
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  name: WednesProject
-version: 1.0.0
+  gitBranch: release/1.0.0
